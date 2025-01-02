@@ -62,7 +62,7 @@
     "registry": "https://registry.npmjs.org/"
   },
   "dependencies": {
-    "nanoid": "^3.3.1"
+    "nanoid": "^5.0.9"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^19.6.0",
