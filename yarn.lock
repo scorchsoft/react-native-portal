@@ -2285,6 +2285,7 @@ __metadata:
     "@eslint/eslintrc": ^3.3.0
     "@eslint/js": ^9.22.0
     "@evilmartians/lefthook": ^1.5.0
+    "@gorhom/showcase-template": ^3.0.2
     "@react-native/babel-preset": 0.78.2
     "@react-native/eslint-config": ^0.78.0
     "@release-it/conventional-changelog": ^9.0.2
@@ -2308,6 +2309,21 @@ __metadata:
     react-native: "*"
   languageName: unknown
   linkType: soft
+
+"@gorhom/showcase-template@npm:^3.0.2":
+  version: 3.0.2
+  resolution: "@gorhom/showcase-template@npm:3.0.2"
+  peerDependencies:
+    "@react-navigation/native": ~6.0.0
+    "@react-navigation/stack": ~6.0.0
+    react: "*"
+    react-native: "*"
+    react-native-gesture-handler: ~2.12.0
+    react-native-reanimated: ~3.3.0
+    react-native-safe-area-context: ~4.7.0
+  checksum: d11eecaa128c30fd9b608674f96733ecde8b417465d5a7905dd45f3f2dd006ec8f08f664a04556764eedeafcc2d74f3c2f3dfa1b137f528da3d36c3203f95f12
+  languageName: node
+  linkType: hard
 
 "@humanfs/core@npm:^0.19.1":
   version: 0.19.1
