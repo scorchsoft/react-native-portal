@@ -1,0 +1,1 @@
+{"version":3,"names":["createContext","PortalStateContext","PortalDispatchContext"],"sourceRoot":"../../../src","sources":["contexts/portal.ts"],"mappings":";;AAAA,SAASA,aAAa,QAAQ,OAAO;AAIrC,OAAO,MAAMC,kBAAkB,gBAAGD,aAAa,CAGrC,IAAI,CAAC;AACf,OAAO,MAAME,qBAAqB,gBAChCF,aAAa,CAAqC,IAAI,CAAC","ignoreList":[]}

@@ -1,0 +1,1 @@
+{"version":3,"names":["Portal","PortalHost","PortalProvider","usePortal","enableLogging"],"sourceRoot":"../../src","sources":["index.ts"],"mappings":";;AAAA,SAASA,MAAM,QAAQ,+BAA4B;AACnD,SAASC,UAAU,QAAQ,uCAAoC;AAC/D,SAASC,cAAc,QAAQ,+CAA4C;AAC3E,SAASC,SAAS,QAAQ,sBAAmB;AAC7C,SAASC,aAAa,QAAQ,uBAAoB","ignoreList":[]}
